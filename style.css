@@ -1,0 +1,10 @@
+table {margin: 0 auto; border-collapse: collapse; width: 50%;}
+table, th, td {border: 1px solid #1F3D48;}
+th {height: 50px; text-align: left; background-color:#FF7A03; color: #F1F5F9; text-transform: uppercase; font-family: Helvetica; font-size: 14px;}
+th, td {padding: 15px; text-align: center;}
+tr:nth-child(even) {background-color: #FFB727;}
+a, li {color: #FF7A03; font-weight: bold;}
+.code {font-family: Helvetica, Courier, Monaco, monospace; font-size: 13px;}
+html, body {width: 100%; text-align: center; background-color: #F1F5F9;}
+nav {text-align: left !important}
+h1, h2, h5, ul {color: #1F3D48; font-family: Helvetica;}
